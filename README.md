@@ -4,7 +4,7 @@ A portfolio of reproducible single-cell RNA-seq analyses using publicly availabl
 
 ## Projects
 
-### Project 1 — T2D PBMC scRNA-seq
+### Project 1 — Type 2 DM PBMC scRNA-seq
 Independent computational analysis of a publicly available T2D PBMC scRNA-seq cohort.
 
 ### Project 2 — Healthy PBMC scRNA-seq
